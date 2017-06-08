@@ -5,3 +5,13 @@
 .bold{
     font-weight: bold;
 }
+
+.gibberish{
+    float:right;
+    width:45%;
+    border:2px solid black;
+}
+.bottomBorder{
+    border-bottom: 2px solid black;
+    width:40%;
+}
