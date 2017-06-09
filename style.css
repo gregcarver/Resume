@@ -5,18 +5,6 @@
 .alignLeft{
     float:left;
 }
-.bottomBorder{
-    border-bottom: 2px solid black;
-    width:40%;
-    float:left;
-    
-}
-.bottomBorderRight{
-    border-bottom: 2px solid black;
-    width:40%;
-    float:right;
-    display:inline-block;
-}
 .biginfobox{
     height:200px;
     width:100%;
@@ -70,4 +58,8 @@ form{
 .lemon{
     font-size: 200%;
     word-wrap:break-word;
+}
+.pictures{
+    width:33%;
+    height:150px;
 }
