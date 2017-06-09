@@ -42,6 +42,8 @@
 .logo{
     height:5%;
     width:5%;
+    text-align: horizontal;
+    display: inline-block;
 }
 .DDD{
     float:right;
@@ -62,4 +64,8 @@ form{
 .pictures{
     width:33%;
     height:150px;
+}
+experience-left{
+    text-align: right;
+
 }
