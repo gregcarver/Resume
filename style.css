@@ -2,16 +2,65 @@
     float:right;
     
 }
-.bold{
-    font-weight: bold;
-}
-
-.gibberish{
-    float:right;
-    width:45%;
-    border:2px solid black;
+.alignLeft{
+    float:left;
 }
 .bottomBorder{
     border-bottom: 2px solid black;
     width:40%;
+    float:left;
+    
+}
+.bottomBorderRight{
+    border-bottom: 2px solid black;
+    width:40%;
+    float:right;
+    display:inline-block;
+}
+.biginfobox{
+    height:200px;
+    width:100%;
+    background-color:yellow;
+}
+.infobox{
+    height:200px;
+    width:600px;
+    background-color:green;
+    border:2px solid black;
+    float:right; 
+    background-position-y:25%; 
+}
+.infoboxNC{
+    height:200px;
+    width:40%;
+    float:left;   
+}
+.infotext{
+    font-size:2em;
+    word-wrap:break-word;
+    text-align: center;
+}
+.infotext2{
+    font-size:2em;
+    word-wrap:break-word;
+    width:40%;
+}
+.inline{
+    align:inline;
+}
+.logo{
+    height:5%;
+    width:5%;
+}
+.DDD{
+    float:right;
+    width:40%;
+}
+form{
+    margin: 0 auto;
+    width:300px; 
+}
+donkey{
+    width:300px;
+    height:100px;
 }
