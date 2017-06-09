@@ -21,14 +21,17 @@
     height:200px;
     width:100%;
     background-color:yellow;
+    position:relative;
 }
 .infobox{
     height:200px;
     width:600px;
     background-color:green;
-    border:2px solid black;
+    border:1px solid black;
     float:right; 
     background-position-y:25%; 
+    
+    
 }
 .infoboxNC{
     height:200px;
@@ -60,7 +63,11 @@ form{
     margin: 0 auto;
     width:300px; 
 }
-donkey{
+.donkey{
     width:300px;
     height:100px;
+}
+.lemon{
+    font-size: 200%;
+    word-wrap:break-word;
 }
