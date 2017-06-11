@@ -17,9 +17,7 @@
     background-color:green;
     border:1px solid black;
     float:right; 
-    background-position-y:25%; 
-    
-    
+    background-position-y:25%;   
 }
 .infoboxNC{
     height:200px;
@@ -42,8 +40,11 @@
 .logo{
     height:5%;
     width:5%;
-    text-align: horizontal;
     display: inline-block;
+    margin-left: auto;
+    margin-right:  auto;
+    text-align: center;
+    
 }
 .DDD{
     float:right;
@@ -65,7 +66,12 @@ form{
     width:33%;
     height:150px;
 }
-experience-left{
+.experience-left{
     text-align: right;
 
+}
+.primary-color{
+    text-decoration: none;
+    color:orange;
+    border-bottom: 1px solid black;
 }
