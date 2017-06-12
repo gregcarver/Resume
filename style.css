@@ -82,7 +82,7 @@ form{
     color:grey;
 }
 .border-bottom{
-    border-bottom:1px solid black;
+    border-bottom:2px solid black;
     padding:5px;
 }
 .border{
@@ -100,4 +100,16 @@ form{
 }
 .padding{
     padding:5px;
+}
+.button{
+    border: 1px solid black;
+    color:white;
+    text-transform:uppercase;
+    background-color:red;
+    height:25px;
+    width:7%;
+    margin:auto;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top:5px;
 }
