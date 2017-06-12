@@ -89,8 +89,10 @@ form{
     color:grey;
 }
 .border-bottom{
-    border-bottom:4px solid black;
+   
     padding:5px;
+    text-decoration:none;
+    color:black;
     
 }
 .border{
@@ -121,7 +123,7 @@ form{
     margin-bottom: 5px;
     margin-top:5px;
     position: relative;
-    left:12em;
+    left:12.75em;
 }
 .container{
     margin-left:10%;
