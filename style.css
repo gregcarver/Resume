@@ -6,19 +6,23 @@
     float:left;
 }
 .biginfobox{
-    height:200px;
+    height:300px;
     width:100%;
-    background-color:yellow;
+    background-color:lightgray;
     position:relative;
+    
 }
 .infobox{
     height:200px;
-    width:600px;
-    background-color:green;
+    width:450px;
+    background-color:white;
     border:3px solid black;
     float:right; 
     background-position-y:25%;   
-    margin-left:10px;
+    position:relative;
+    margin-top:3em;
+    margin-right:2.75em;
+    
 }
 .infoboxNC{
     height:200px;
@@ -26,7 +30,7 @@
     float:left;   
 }
 .infotext{
-    font-size:2em;
+    font-size:26px;
     word-wrap:break-word;
     text-align: center;
 }
@@ -39,8 +43,8 @@
     align:inline;
 }
 .logo{
-    height:5%;
-    width:5%;
+    height:2.5%;
+    width:2.5%;
     display: inline-block;
     margin-left: auto;
     margin-right:  auto;
@@ -48,17 +52,16 @@
     
 }
 .DDD{
+    position:relative;
     float:right;
+    right:30em;
     width:40%;
 }
 form{
     margin: 0 auto;
-    width:300px; 
+    width:500px; 
 }
-.donkey{
-    width:300px;
-    height:100px;
-}
+
 .lemon{
     font-size: 200%;
     word-wrap:break-word;
@@ -70,9 +73,13 @@ form{
     margin-top:10px;
 }
 .experience-left{
-    text-align: right;
+    text-align: center;
     font-size:125%;
     margin:25px;
+    position:relative;
+    top:1em;
+    padding:5px;
+    
 }
 .primary-color{
     text-decoration: none;
@@ -113,7 +120,20 @@ form{
     text-align: center;
     margin-bottom: 5px;
     margin-top:5px;
+    position: relative;
+    left:6.5em;
 }
 .container{
-    margin:3%;
+    margin-left:10%;
+    margin-right:10%;
+}
+.bark{
+    position:relative;
+    bottom:20em;
+
+}
+.padding{
+    padding-left:5em;
+    padding-right:5em;
+    
 }
